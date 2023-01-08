@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f24b25b.css",
+    "main.js": "/static/js/main.80a928ea.js",
+    "static/media/CormorantGaramond-Regular.ttf": "/static/media/CormorantGaramond-Regular.274cef1344d2d06fb1be.ttf",
+    "static/media/Tinwhistle1.jpg": "/static/media/Tinwhistle1.336a1203fdac1aef57fd.jpg",
+    "static/media/Tinwhistle.jpg": "/static/media/Tinwhistle.c06eacac5690f013d0fd.jpg",
+    "index.html": "/index.html",
+    "main.2f24b25b.css.map": "/static/css/main.2f24b25b.css.map",
+    "main.80a928ea.js.map": "/static/js/main.80a928ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f24b25b.css",
+    "static/js/main.80a928ea.js"
+  ]
+}
